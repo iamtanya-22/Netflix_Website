@@ -28,8 +28,9 @@ p,h3,h2{
 .container .head a{
   text-decoration: none;
   color: #fff;
-  padding: 8px 18px;
-  background: red;
+  font-size: 1.2rem;
+  padding: 10px 20px;
+  background:#e50914;
   border-radius: 5px;
 }
 .banner:before{
@@ -276,7 +277,7 @@ p,h3,h2{
   min-width:310px;
 }
 .contact{
-  padding: 50px;
+  padding: 100px;
   align-content: center;
   text-align: center;
   border-bottom:0.6rem solid #111 ;
